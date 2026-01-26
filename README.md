@@ -115,3 +115,5 @@ Cortez, P., et al. (2009). Modeling wine preferences by data mining from physico
 Forina, M., et al. (1986). Multivariate data analysis as a discriminating method of the origin of wines. Vitis, 25(3), 189–201.
 Dataset Source: UCI ML Repository
 
+**Author:**
+Nisarga Vishwamanjuswamy
