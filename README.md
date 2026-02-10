@@ -71,7 +71,7 @@ We applied regression and classification models to predict wine quality.
 
 ### Regression (predict exact quality score)
 - **Linear Regression**  
-  - R² ≈ 0.40  
+  - R² ≈ 0.41 
   - RMSE ≈ 0.62
 
 ### Top Features (by importance):
